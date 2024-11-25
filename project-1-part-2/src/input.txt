@@ -1,0 +1,9 @@
+    search  NV
+remove      USa
+
+remove urmom
+
+    search 2021
+
+
+print
